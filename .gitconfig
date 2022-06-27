@@ -3,3 +3,5 @@
 	email = jskelly84@gmail.com
 [init]
 	defaultBranch = main
+[diff]
+	submodule = log
